@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Praktek_3",
+            "request": "launch",
+            "mainClass": "Praktek_3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Praktek_2",
+            "request": "launch",
+            "mainClass": "Praktek_2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Praktek_1",
+            "request": "launch",
+            "mainClass": "Praktek_1"
+        }
+    ]
+}
