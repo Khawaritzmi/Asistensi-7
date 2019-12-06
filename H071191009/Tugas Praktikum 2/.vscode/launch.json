@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kuadran",
+            "request": "launch",
+            "mainClass": "Kuadran",
+            "projectName": "Tugas Asistensi 2_5c750a85"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Praktikum3",
+            "request": "launch",
+            "mainClass": "Praktikum3",
+            "projectName": "Tugas Asistensi 2_5c750a85"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Soaltp",
+            "request": "launch",
+            "mainClass": "Soaltp",
+            "projectName": "Tugas Asistensi 2_5c750a85"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Coba",
+            "request": "launch",
+            "mainClass": "Coba",
+            "projectName": "Tugas Asistensi 2_5c750a85"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Praktikum1",
+            "request": "launch",
+            "mainClass": "Praktikum1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Praktikum2",
+            "request": "launch",
+            "mainClass": "Praktikum2"
+        }
+    ]
+}
