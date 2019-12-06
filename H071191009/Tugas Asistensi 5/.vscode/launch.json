@@ -1,0 +1,70 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nomor3",
+            "request": "launch",
+            "mainClass": "Nomor3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TambahanSoal",
+            "request": "launch",
+            "mainClass": "TambahanSoal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nomor1",
+            "request": "launch",
+            "mainClass": "Nomor1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nomor2",
+            "request": "launch",
+            "mainClass": "Nomor2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Modul3",
+            "request": "launch",
+            "mainClass": "Modul3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - tugasPraktikum2",
+            "request": "launch",
+            "mainClass": "tugasPraktikum2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - latihanPraktikum2",
+            "request": "launch",
+            "mainClass": "latihanPraktikum2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - latihanpraktikum",
+            "request": "launch",
+            "mainClass": "latihanpraktikum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Modul1",
+            "request": "launch",
+            "mainClass": "Modul1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Modul2",
+            "request": "launch",
+            "mainClass": "Modul2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tambahan",
+            "request": "launch",
+            "mainClass": "Tambahan"
+        }
+    ]
+}

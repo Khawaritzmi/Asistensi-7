@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Method",
+            "request": "launch",
+            "mainClass": "Method"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Contoh",
+            "request": "launch",
+            "mainClass": "Contoh"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Praktikum1",
+            "request": "launch",
+            "mainClass": "Praktikum1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasModul",
+            "request": "launch",
+            "mainClass": "TugasModul"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasTambahan",
+            "request": "launch",
+            "mainClass": "TugasTambahan"
+        }
+    ]
+}
