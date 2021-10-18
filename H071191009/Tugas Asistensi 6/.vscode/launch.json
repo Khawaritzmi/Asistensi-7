@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Perbaikan",
+            "request": "launch",
+            "mainClass": "Perbaikan",
+            "projectName": "Tugas Asistensi 6_5c750a89"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - coba",
+            "request": "launch",
+            "mainClass": "coba",
+            "projectName": "Tugas Asistensi 6_5c750a89"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasTambahan",
+            "request": "launch",
+            "mainClass": "TugasTambahan",
+            "projectName": "Tugas Asistensi 6_5c750a89"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Praktikum1",
+            "request": "launch",
+            "mainClass": "Praktikum1",
+            "projectName": "Tugas Asistensi 6_5c750a89"
+        }
+    ]
+}

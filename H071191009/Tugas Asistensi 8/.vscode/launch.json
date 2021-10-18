@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasTambahan",
+            "request": "launch",
+            "mainClass": "TugasTambahan"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ioo",
+            "request": "launch",
+            "mainClass": "Ioo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TugasModul",
+            "request": "launch",
+            "mainClass": "TugasModul"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Soal5",
+            "request": "launch",
+            "mainClass": "Soal5",
+            "projectName": "Tugas Asistensi 3_5c750a86"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - coba",
+            "request": "launch",
+            "mainClass": "coba",
+            "projectName": "Tugas Asistensi 3_5c750a86"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Soal04",
+            "request": "launch",
+            "mainClass": "Soal04",
+            "projectName": "Tugas Asistensi 3_5c750a86"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Soal1",
+            "request": "launch",
+            "mainClass": "Soal1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Soal2",
+            "request": "launch",
+            "mainClass": "Soal2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Soal3",
+            "request": "launch",
+            "mainClass": "Soal3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Soal4",
+            "request": "launch",
+            "mainClass": "Soal4"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - coba",
+            "request": "launch",
+            "mainClass": "coba"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tambahan",
+            "request": "launch",
+            "mainClass": "Tambahan"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Modul2",
+            "request": "launch",
+            "mainClass": "Modul2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Modul1",
+            "request": "launch",
+            "mainClass": "Modul1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tugasmodul1",
+            "request": "launch",
+            "mainClass": "Tugasmodul1"
+        }
+    ]
+}
